@@ -11,11 +11,11 @@ assignees: ''
 **I need**
 **So that**
 
-###Details and Assumptions
+Details and Assumptions
 - ...
 - ...
 
-###Acceptance Criteria
+Acceptance Criteria
 ```gherkin
 Given
 When
